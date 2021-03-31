@@ -1,0 +1,14 @@
+.container{
+    max-width: 200px;
+    display: flex;
+    justify-content: space-between;
+}
+.priorety{
+    width: 40%;
+    text-align: start;
+    padding-top: 5px;
+}
+.name{
+    width: 40%;
+    padding: 5px;
+}
